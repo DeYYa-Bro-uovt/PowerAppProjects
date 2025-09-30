@@ -42,5 +42,5 @@ The system helps streamline visitor meal preorders and administrative tracking t
 ## 👤 Author
 **Wihanga Jayasundara**  
 📧 wihangacanchana@gmai.com  
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/wihanga-k-jayasundara)) | [GitHub]([https://github.com/yourusername](https://github.com/DeYYa-Bro-uovt))  
+🔗 [LinkedIn](https://www.linkedin.com/in/wihanga-k-jayasundara) | [GitHub](https://github.com/DeYYa-Bro-uovt))  
 
